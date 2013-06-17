@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlchemyAPI_Android-0.8.iml" filepath="$PROJECT_DIR$/AlchemyAPI_Android-0.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/AlchemyAPI_Android_TestApp/AlchemyAPI_Android_TestApp.iml" filepath="$PROJECT_DIR$/example/AlchemyAPI_Android_TestApp/AlchemyAPI_Android_TestApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ap/ap.iml" filepath="$PROJECT_DIR$/ap/ap.iml" />
+    </modules>
+  </component>
+</project>
+
